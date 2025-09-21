@@ -2,3 +2,11 @@ streamlit
 PyPDF2
 python-docx
 gpt4all
+streamlit
+openai
+google-cloud
+pandas
+numpy
+transformers
+torch
+sentencepiece
